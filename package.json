@@ -1,0 +1,9 @@
+{
+  "name": "fixed-length-queue",
+  "version": "0.0.1",
+  "description": "fixed-length queue",
+  "main": "index.js",
+  "repository": "git@github.com:jkiimm/fixed-length-queue.git",
+  "author": "Jinyoung Kim <jkiimm9@gmail.com>",
+  "license": "MIT"
+}
